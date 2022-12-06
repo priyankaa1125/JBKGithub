@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-12-05T20:30:49Z" name="Suite" finished-at="2022-12-05T20:31:04Z" duration-ms="15272">
+    <groups>
+    </groups>
+    <test started-at="2022-12-05T20:30:49Z" name="Test" finished-at="2022-12-05T20:31:04Z" duration-ms="15272">
+      <class name="com.inetbanking.testcases.T01_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.inetbanking.testcases.T01_LoginTest@1ab06251]" started-at="2022-12-05T20:30:49Z" name="setUp" finished-at="2022-12-05T20:30:53Z" duration-ms="3719" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="loginTest01()[pri:0, instance:com.inetbanking.testcases.T01_LoginTest@1ab06251]" started-at="2022-12-05T20:30:53Z" name="loginTest01" finished-at="2022-12-05T20:31:04Z" duration-ms="11073" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest01 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.inetbanking.testcases.T01_LoginTest@1ab06251]" started-at="2022-12-05T20:31:04Z" name="tearDown" finished-at="2022-12-05T20:31:04Z" duration-ms="457" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.inetbanking.testcases.T01_LoginTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
